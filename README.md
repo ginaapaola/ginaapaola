@@ -52,13 +52,11 @@ gina = {
 
 ### 📊 GitHub stats
 
-<div align="center">
-
-![Gina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ginaapaola&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=e6edf3)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginaapaola&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e6edf3)
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ginaapaola&show_icons=true&theme=github_dark"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginaapaola&layout=compact&theme=github_dark"/>
+</p>
 
 ---
 
