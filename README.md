@@ -50,24 +50,9 @@ gina = {
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ginaapaola&show_icons=true&theme=github_dark"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginaapaola&layout=compact&theme=github_dark"/>
-</p>
-
----
-
 ### 📬 Reach me
 
 [![GitHub](https://img.shields.io/badge/GitHub-ginaapaola-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ginaapaola)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gina%20Paola%20Moreno-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gina-paola-moreno-caicedo)
 [![Gmail](https://img.shields.io/badge/Gmail-ginapaolamc07@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ginapaolamc07@gmail.com)
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ginaapaola&style=flat-square&color=7c3aed&label=profile+views" alt="profile views"/>
-</div>
